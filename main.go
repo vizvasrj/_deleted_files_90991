@@ -10,6 +10,7 @@ func main() {
 	urls := []string{
 		"https://somenode-ecommerse-server.onrender.com",
 		"https://aapan.shop/",
+		"https://deleted-files-90991.onrender.com",
 	}
 
 	for _, url := range urls {
